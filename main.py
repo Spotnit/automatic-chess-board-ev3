@@ -23,7 +23,7 @@ from pybricks.media.ev3dev import SoundFile, ImageFile
 
 
 # Create your variables here.
-# diameter =3.04
+# diameter =3.04 
 diameter = 1.0225
 omtrek = diameter * 3.141592653589793238
 speed = 2
@@ -73,7 +73,7 @@ def loc_to_cor(location):  # a4
     return (x_cor, y_cor)  # 7 , 10.5
 
 
-def rand_loc_to_(target_loc):  # a4 , b8 #todo
+def rand_loc_to_(target_loc):  # a4 , b8 
     global x_coördinaat
     global y_coördinaat
     #! eindpunt - beginpunt
@@ -551,7 +551,7 @@ def game():
             player = "white"
 
 
-# Write your program here.
+# Write program here.
 
 while True:
     command = input("command: ").lower()
