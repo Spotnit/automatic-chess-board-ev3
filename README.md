@@ -52,5 +52,3 @@ The magnet is self wound so it had the right shape for in my cart. The magnet ha
 
 The magnet is also equipped with a capacitor and a resistor to work away the voltage generated during swiching of so there is no spark in the switch. This is to extend the life of the switch.( in the future I might use a transistor)
 
-#### Disclaimer!
-Some function names and variables in the program are in the Dutch language (my native language) . But all commands entered by the user en responses are in English.
